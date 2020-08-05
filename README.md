@@ -9,7 +9,6 @@ A python library for love.
 You can install, upgrade, uninstall count-line with these commands(without $):
 
 ```html
-$ pip install WtwoBai
-$ pip install --upgrade WtwoBai
-$ pip unstall WtwoBai
+$ pip install WtwoBai==0.1.0
+$ pip unstall WtwoBai==0.1.0
 ```
